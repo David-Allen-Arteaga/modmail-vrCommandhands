@@ -27,11 +27,11 @@
     "core-js": "^3.26.0",
     "cross-env": "^7.0.3",
     "dotenv": "^16.0.3",
-    "nuxt": "^2.15.8",
+    "nuxt": "^3.0.0",
     "vuex": "^3.6.2"
   },
   "devDependencies": {
-    "@babel/core": "^7.19.6",
+    "@babel/core": "^7.26.10",
     "@babel/eslint-parser": "^7.19.1",
     "@nuxt/components": "^2.2.1",
     "@nuxt/types": "^2.15.8",
