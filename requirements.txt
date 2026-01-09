@@ -1,5 +1,5 @@
 aio-pika==9.4.0
-aiohttp==3.7.4.post0
+aiohttp==3.13.3
 aioprometheus==23.3.0
 aioredis==1.3.1
 asyncpg==0.29.0
