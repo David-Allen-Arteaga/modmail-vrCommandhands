@@ -27,7 +27,7 @@
     "core-js": "^3.26.0",
     "cross-env": "^7.0.3",
     "dotenv": "^16.0.3",
-    "nuxt": "^2.15.8",
+    "nuxt": "^3.0.0",
     "vuex": "^3.6.2"
   },
   "devDependencies": {
@@ -37,20 +37,20 @@
     "@nuxt/types": "^2.15.8",
     "@nuxt/webpack": "^2.15.8",
     "@nuxtjs/eslint-config": "^11.0.0",
-    "@nuxtjs/eslint-module": "^3.1.0",
+    "@nuxtjs/eslint-module": "^4.0.0",
     "@nuxtjs/fontawesome": "^1.1.2",
     "@nuxtjs/pwa": "^3.3.5",
     "@nuxtjs/style-resources": "^1.2.1",
-    "@nuxtjs/stylelint-module": "^4.1.0",
+    "@nuxtjs/stylelint-module": "^5.0.0",
     "babel-core": "^6.26.3",
     "consola": "^2.15.3",
-    "eslint": "^8.26.0",
+    "eslint": "^10.0.0",
     "eslint-config-prettier": "^8.5.0",
     "eslint-plugin-nuxt": "^4.0.0",
     "eslint-plugin-prettier": "^4.2.1",
     "jquery": "^3.6.1",
     "npm-run-all": "^4.1.5",
-    "nuxt-purgecss": "^1.0.0",
+    "nuxt-purgecss": "^2.0.0",
     "popper.js": "^1.16.1",
     "postcss": "^8.4.18",
     "postcss-html": "^1.5.0",
@@ -59,7 +59,7 @@
     "remark-lint": "^9.1.1",
     "remark-preset-lint-recommended": "^6.1.2",
     "sass": "^1.55.0",
-    "sass-loader": "^10.1.1",
+    "sass-loader": "^11.0.0",
     "stylelint": "^14.14.0",
     "stylelint-config-prettier": "^9.0.3",
     "stylelint-config-recommended-scss": "^8.0.0",
@@ -67,6 +67,6 @@
     "stylelint-scss": "^4.3.0",
     "typescript": "^4.8.4",
     "vue": "^2.6.12",
-    "webpack": "^4.46.0"
+    "webpack": "^5.98.0"
   }
 }
